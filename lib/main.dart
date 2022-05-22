@@ -1,15 +1,17 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:shared_preferences/shared_preferences.dart';
+import 'package:turtletest/core/injector.dart';
+import 'package:turtletest/core/services/navigation_servide.dart';
+import 'package:turtletest/ui/views/home/home.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  // await setupInjector();
-  final sharedPreferences = await SharedPreferences.getInstance();
+  await Firebase.initializeApp();
+  await setupInjector();
+
   runApp(
-    ProviderScope(overrides: [
-      // sharedPreferencesProvider.overrideWithValue(sharedPreferences),
-    ], child: const MyApp()),
+    const ProviderScope(overrides: [], child: MyApp()),
   );
 }
 
@@ -24,7 +26,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const Text('jeje'),
+      home: const HomeView(),
+      navigatorKey: injector<NavigationService>().navigatorKey,
     );
   }
 }

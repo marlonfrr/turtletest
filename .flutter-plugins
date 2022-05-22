@@ -1,15 +1,12 @@
 # This is a generated file; do not edit or check into version control.
-path_provider=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.10/
-path_provider_android=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/
-path_provider_ios=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.9/
-path_provider_linux=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.6/
-path_provider_macos=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.6/
-path_provider_windows=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.6/
-shared_preferences=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.15/
-shared_preferences_android=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/
-shared_preferences_ios=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.1.1/
-shared_preferences_linux=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.1.1/
-shared_preferences_macos=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.4/
-shared_preferences_web=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.4/
-shared_preferences_windows=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.1/
-sqflite=/Users/marlontyba/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2/
+cloud_firestore=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.15/
+cloud_firestore_web=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.6.15/
+firebase_core=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.17.0/
+firebase_core_web=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.4/
+path_provider=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.10/
+path_provider_android=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/
+path_provider_ios=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.9/
+path_provider_linux=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.6/
+path_provider_macos=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.6/
+path_provider_windows=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.6/
+sqflite=/Users/marlonfrr/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2/
